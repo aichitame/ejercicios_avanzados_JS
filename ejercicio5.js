@@ -9,4 +9,6 @@ function rollDice(sides){
     }
 }
 
-rollDice(6)
+rollDice(2)
+rollDice(4)
+rollDice(8)
