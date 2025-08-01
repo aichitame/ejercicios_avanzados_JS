@@ -4,7 +4,6 @@ Es decir, const categorias = ["comedia", "aventura", "acción", "thriller", "ani
 Para filtrar las categorías puedes ayudarte de la función .includes(). */
 
 const movies = [
-
     {
       title: "Bracula: Condemor II",
       duration: 192,
